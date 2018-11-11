@@ -1,6 +1,13 @@
+# Table of Contents
+
+- [Getting Started](#getting-started)
+- [Setting up softwares](#setting-up-softwares)
+- [Setting up git](#setting-up-git)
+- [Forking and Cloning](#forking-and-cloning)
+
 # Getting Started
 
-This repo is to help newbies get started with open source. The objective of this tutorial is to make your first Pull Request and add your name to the [CONTRIBUTORS.md](CONTRIBUTORS.md) file. If you get stuck, open an issue and ask your doubt.
+This repo is to help newbies get started with open source. The objective of this tutorial is to make your first Pull Request and add your name to the [CONTRIBUTORS](CONTRIBUTORS/) folder. If you get stuck, open an issue and ask your doubt.
 
 ## Setting up softwares
 
