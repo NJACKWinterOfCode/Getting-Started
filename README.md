@@ -90,7 +90,7 @@ Congratulations! You made your first Open Source Contribution! Now contribute to
 
 # Resources
 
-You can learn more about git and GitHub here:
+You can learn more about Git and GitHub here:
 
 - https://www.youtube.com/watch?v=w3jLJU7DT5E
 - https://codeburst.io/a-step-by-step-guide-to-making-your-first-github-contribution-5302260a2940
