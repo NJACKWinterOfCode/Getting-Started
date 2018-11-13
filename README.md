@@ -108,6 +108,7 @@ You can learn more about git and GitHub here:
 
 **Some other important points:**
 
+- Any contributions made prior to the beginning of the coding period (1st December) will NOT be counted towards the final score.
 - Students should NOT review other student’s Pull Requests under any circumstances. Let the mentors alone review the Pull Requests.
 - Please try to Google your doubts before directly contacting mentors or posting on the Gitter channel itself.
 
