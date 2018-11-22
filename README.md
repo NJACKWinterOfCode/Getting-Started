@@ -14,7 +14,9 @@
 
 # Getting Started
 
-This repo is to help newbies get started with open source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. If you get stuck, ask your doubt on the [NWoC Gitter Channel](https://gitter.im/NWoC/NWoC2018).
+***All the projects selected for NJACK Winter of Code 2018 are listed [here](https://github.com/NJACKWinterOfCode).***
+
+This repo is to help newbies get started with Open Source. The objective of this tutorial is to make your first Pull Request and add your name to the [contributors](contributors/) folder. If you get stuck, ask your doubt on the [NWoC Gitter Channel](https://gitter.im/NWoC/NWoC2018).
 
 ## Setting up softwares
 
