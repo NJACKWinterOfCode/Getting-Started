@@ -80,7 +80,7 @@ Write any message in place of the commit message. If the command runs successful
 
 ## Pushing changes and submitting a Pull Request
 
-After committing you chanegs, you have to upload them to GitHub. This is known as **pushing**. To push your changes, run:
+After committing your changes, you have to upload them to GitHub. This is known as **pushing**. To push your changes, run:
 
 ```
 git push origin [branch name]
