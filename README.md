@@ -51,12 +51,39 @@ That should download the repo locally.
 
 A **branch** is a parallel copy of the code. When we add new features to a project, we usually create a copy of the code and work on it. This is done so that the main working copy of the code is unaffected. In most GitHub repos, the master branch is the default branch. You should create a separate branch for every contribution you make. To create a new branch, execute this command:
 
+
 ```
 git checkout -b [branch name here]
 ```
 
 You should see the branch name change on the terminal prompt. Congratulations! You created a new branch.
 
+You can also do this by another method.
+
+```
+git branch [new-branch]
+
+```
+Use the above command for creating a branch. This branch is not a master branch I mean not an original branch this is a temporary branch. You can do all the changes here and then apply them to the main branch.
+Next use the below command
+
+```
+git checkout [new-branch]
+
+```
+Now the new branch is created. Now you can switch to make sure that we are working on that branch by using the ```git checkout``` command
+After doing this command you will get an output likes this in your terminal.
+
+```Output:
+Switched to branch 'new-branch'
+```
+
+This is another method for creating a branch.
+As this is for beginners we have to provide every alternate way to beginners.
+
+``` git checkout -b [new branch] ```
+
+This command will do two works at a time.
 
 ## Editing files
 
@@ -77,6 +104,22 @@ git commit -m "[commit message here]"
 ```
 
 Write any message in place of the commit message. If the command runs successfully, you should have committed your changes.
+
+After commit to know the status of your commit
+
+``` git status ```
+
+The above command is used to describe the status of the commit to the master branch.
+
+To provide URL links to your commits 
+
+Use the following command.
+
+```
+git remote -v
+
+```
+The -v flag with the git remote command will provide the URL links.
 
 ## Pushing changes and submitting a Pull Request
 
